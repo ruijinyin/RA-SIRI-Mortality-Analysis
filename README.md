@@ -25,3 +25,27 @@ The R version and package dependencies are shown at the end of `analysis.Rmd` vi
 
 - All file paths are relative. No hard-coded local paths are used.  
 - External files such as `NHANES mortality linkages` must be requested separately from the CDC.
+
+## 5. Results of sessionInfo()
+R version 4.4.2 (2024-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26100)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8  LC_CTYPE=Chinese (Simplified)_China.utf8    LC_MONETARY=Chinese (Simplified)_China.utf8
+[4] LC_NUMERIC=C                                LC_TIME=Chinese (Simplified)_China.utf8    
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] here_1.0.1
+
+loaded via a namespace (and not attached):
+[1] compiler_4.4.2    rprojroot_2.0.4   tools_4.4.2       rstudioapi_0.17.1
