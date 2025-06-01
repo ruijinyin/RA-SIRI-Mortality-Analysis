@@ -6,7 +6,7 @@ This repository provides R code and documentation for reproducing the analysis p
 ## 1. Data Access
 
 - NHANES data portal: https://wwwn.cdc.gov/nchs/nhanes/Default.aspx  
-- NHANES-NDI linked mortality data: https://www.cdc.gov/nchs/data-linkage/mortality.htm  
+- NHANES-NDI linked mortality data: https://www.cdc.gov/nchs/data-linkage/mortality-public.htm  
 - This analysis uses data from the 1999–2018 cycles.
 
 Please download the necessary datasets and place them in the `/data` folder.
