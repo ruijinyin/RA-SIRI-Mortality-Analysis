@@ -1,7 +1,7 @@
-# Reproducible Analysis: SIRI and Mortality in RA Patients (NHANES 1999–2018)
+# SIRI and Mortality in RA Patients (NHANES 1999–2018)
 
 This repository provides R code and documentation for reproducing the analysis presented in the manuscript:  
-"Systemic Inflammation Response Index and Long-Term Mortality in Rheumatoid Arthritis: A NHANES-Based Cohort Study"
+"Association between systemic inflammation response index and long-term mortality in rheumatoid arthritis: a population-based cohort study"
 
 ## 1. Data Access
 
