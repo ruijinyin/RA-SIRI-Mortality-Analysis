@@ -15,7 +15,7 @@ Please download the necessary datasets and place them in the `/data` folder.
 
 1. Open `analysis.Rmd` in RStudio.  
 2. Ensure all required packages are installed.  
-3. Click **"Knit"** to execute the full analysis and generate figures/tables.
+3. Click **"Run"** to execute the full analysis and generate figures/tables.
 
 ## 3. R Session Information
 
@@ -25,6 +25,7 @@ The R version and package dependencies are shown at the end of `analysis.Rmd` vi
 
 - All file paths are relative. No hard-coded local paths are used.  
 - External files such as `NHANES mortality linkages` must be requested separately from the CDC.
+- However, given the large size of the NHANES database, it may be necessary to download datasets to a local hard drive for analysis as needed.
 
 ## 5. Results of sessionInfo()
 R version 4.4.2 (2024-10-31 ucrt)
