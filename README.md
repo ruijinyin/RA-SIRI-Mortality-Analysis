@@ -15,7 +15,7 @@ Please download the necessary datasets and place them in the `/data` folder.
 
 1. Open `analysis.Rmd` in RStudio.  
 2. Ensure all required packages are installed.  
-3. Click **"Run"** to execute the full analysis and generate figures/tables.
+3. Click **"Run"** or **"Enter + Ctrl"** to execute the full analysis and generate figures/tables.
 
 ## 3. R Session Information
 
